@@ -1,7 +1,7 @@
 * [🏠 首页](README.md)
 
 * 📔 网页设计系列笔记
-  * [Week 1：开发环境与 HTML 基础](網頁設計 (Week 1) —— 開發環境與 HTML 基礎.md)
+  * [Week 1：开发环境与 HTML 基础](week1.md)
   * [Week 2：HTML 表单与 CSS 布局](網頁設計 (Week 2) ——HTML 表單基礎 (Form Elements)+CSS 佈局與樣式.md)
   * [Week 4：JavaScript 基础](網頁設計 (Week 4) --- JavaScript 基礎.md)
   * [Week 5：JavaScript 进阶](網頁設計 (Week 5)------JavaScript 進階課程筆記整理.md)
